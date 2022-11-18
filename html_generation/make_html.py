@@ -55,7 +55,7 @@ def make_contents_page(species):
         ofile.write('<p>  </p> <img src="cover.jpg" width="70%"><br>\n')
         ofile.write('<small>Coastal Orchid Habitat: Muriwai, New Zealand</small><br>\n')
         ofile.write('</font> <p>  </p>\n')
-        ofile.write('<font face="helvetica"> <b>Species:</b><br>\n')
+        ofile.write('<font face="helvetica"> Species:<br>\n')
         ofile.write('<small><i>\n')
         for s in species:
             gs = (s.split('_')) # genus / species
@@ -81,7 +81,7 @@ def write_species_page(species, prev, next, info):
         ofile.write('<small>by John Rugis &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="../index.html">Contents</a></small><br>\n')
         ofile.write('<p>  </p> </font>\n')
         ofile.write('<font face="helvetica">\n')
-        ofile.write('<b>Species: <i>' + gs[0] + ' ' + gs[1] + '</i></b><br>\n')
+        ofile.write('Species: <i>' + gs[0] + ' ' + gs[1] + '</i><br>\n')
         ofile.write('<small>\n')
         ofile.write('&nbsp;&nbsp;&nbsp;<a href="../x' + prev + '/species.html">prev</a>\n')
         ofile.write('&nbsp;&nbsp;&nbsp;<a href="../x' + next + '/species.html">next</a>\n')
