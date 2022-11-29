@@ -1,6 +1,6 @@
 Caladenia_chlorostyla
-AThis is an introduction to <i>C. chlorostyla</i>.<br><br>Here is a new line.
+A<i>C. chlorostyla</i>, Cultivated, ex Waimauku.#Some descriptive text goes here.
 Corybas_trilobus
-AThis is an introduction.
+A<i>C. trilobus</i>, Cultivated, ex Waimauku.#Some descriptive text goes here.
 Thelymitra_logifolia
-AThis is an introduction.
+A<i>T. logifolia </i>, Cultivated, ex Muriwai.#Some descriptive text goes here.

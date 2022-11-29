@@ -36,10 +36,10 @@ def write_head(f):
 # FUNCTION: 
 def write_foot(f):
     f.write('<p>  </p><br>\n')
-    f.write('<font face="helvetica"> <small>\n')
+    f.write('<font face="helvetica"> <small><small>\n')
     f.write('(c)2022 J.Rugis<br>\n')
     f.write('jrugis@gmail.com<br>\n')
-    f.write('</small></font>\n')
+    f.write('</small></small></font>\n')
 
 ################################################################################
 # FUNCTION: 
@@ -53,17 +53,18 @@ def make_contents_page(species):
         ofile.write('<big>The Developmental Morphology of \n')
         ofile.write('New Zealand Native Orchids</big><br>\n')
         ofile.write('<small>by John Rugis</small><br>\n')
-        ofile.write('<p>  </p> <img src="cover.jpg" width="70%"><br>\n')
-        ofile.write('<small>Coastal orchid habitat: Muriwai, New Zealand</small><br>\n')
-        ofile.write('</font> <p>  </p>\n')
-        ofile.write('<font face="helvetica"> Species:<br>\n')
-        ofile.write('<small><i>\n')
+        ofile.write('<p>  </p><figure><img src="cover.jpg" width="70%"><figcaption><small><small>Coastal cliff habitat: Muriwai, New Zealand</small></small></figcaption></figure><br>\n')
+        ofile.write('</font>\n')
+        ofile.write('<font face="helvetica"> Introduction<br>\n')
+        ofile.write('<small>&nbsp;&nbsp;&nbsp;An introduction goes here.</small><br>\n')
+        ofile.write('<p>  </p><small>species list:<br>\n')
+        ofile.write('<i>\n')
         for s in species:
             gs = (s.split('_')) # genus / species
             ofile.write('&nbsp;&nbsp;&nbsp;<a href="./x' + s + '/species.html">' + gs[0] + ' ' + gs[1] + '</a></br>\n')
         ofile.write('</i></small> </font>\n')
         write_foot(ofile)
-        ofile.write('<p>  </p> <img src="by-sa.svg" width="100">\n')
+        ofile.write('<p>  </p> <img src="by-nc-sa.svg" width="100">\n')
         ofile.write('</body>\n')
         ofile.write('</html>\n')
 
@@ -82,17 +83,18 @@ def write_species_page(species, prev, next, info):
         ofile.write('<small>by John Rugis &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="../index.html">Contents</a></small><br>\n')
         ofile.write('<p>  </p> </font>\n')
         ofile.write('<font face="helvetica">\n')
-        ofile.write('Species: <i>' + gs[0] + ' ' + gs[1] + '</i><br>\n')
+        ofile.write('species: <big><i>' + gs[0] + ' ' + gs[1] + '</i></big><br>\n')
         ofile.write('<small>\n')
         ofile.write('&nbsp;&nbsp;&nbsp;<a href="../x' + prev + '/species.html">prev</a>\n')
         ofile.write('&nbsp;&nbsp;&nbsp;<a href="../x' + next + '/species.html">next</a>\n')
-        ofile.write('</small><br> </font> <p>  </p>\n')
-        ofile.write('<img src="' + info[0] + '.jpg" width="50%"><br>\n')
+        ofile.write('</small><br> <p>  </p>\n')
+        txt = info[1:].split('#')
+        ofile.write('<figure><img src="' + info[0] + '.jpg" width="50%"><figcaption><small><small>' + txt[0] + '</small></small></figcaption></figure></font> \n')
         ofile.write('<font face="helvetica"><small>\n')
-        ofile.write(info[1:])
+        ofile.write(txt[1])
         ofile.write('</small> </font>\n')
         write_foot(ofile)
-        ofile.write('<p>  </p> <img src="../by-sa.svg" width="100">\n')
+        ofile.write('<p>  </p> <img src="../by-nc-sa.svg" width="100">\n')
         ofile.write('</body>\n')
         ofile.write('</html>\n')
 
