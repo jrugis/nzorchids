@@ -1,6 +1,7 @@
+ACoastal cliff habitat: Muriwai, New Zealand.%An introduction goes here.
 Caladenia_chlorostyla
-A<i>C. chlorostyla</i>, Cultivated, ex Waimauku.#Some descriptive text goes here.
+A<i>C. chlorostyla</i> flower. Cultivated, ex Waimauku.%Some descriptive text goes here.
 Corybas_trilobus
-A<i>C. trilobus</i>, Cultivated, ex Waimauku.#Some descriptive text goes here.
+A<i>C. trilobus</i> flower. Cultivated, ex Waimauku.%Some descriptive text goes here.$A<i>C. trilobus</i> flower. Cultivated, ex Waimauku.%Different descriptive text goes here.
 Thelymitra_logifolia
-A<i>T. logifolia </i>, Cultivated, ex Muriwai.#Some descriptive text goes here.
+A<i>T. logifolia </i> flower. Cultivated, ex Muriwai.%Some descriptive text goes here.
