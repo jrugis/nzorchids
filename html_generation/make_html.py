@@ -45,8 +45,8 @@ def write_photos(f, info):
     photos = info.split('$')
     for p in photos:
          details= p.split('%')
-         f.write('<figure><img src="' + details[0][0] + '.jpg"><figcaption><small><small>' + details[0][1:] + '</small></figcaption></figure>\n')
-         f.write(details[1] + '</small>\n')
+         f.write('<br><figure><img src="' + details[0][0] + '.jpg"><figcaption><small><small>' + details[0][1:] + '</small></figcaption></figure>\n')
+         f.write(details[1] + '</small><br>\n')
     
 
 ################################################################################
@@ -67,7 +67,7 @@ def write_species_page(species, prev, next, info):
         ofile.write('<small>\n')
         ofile.write('&nbsp;&nbsp;&nbsp;<a href="../x' + prev + '/species.html">prev</a>\n')
         ofile.write('&nbsp;&nbsp;&nbsp;<a href="../x' + next + '/species.html">next</a>\n')
-        ofile.write('</small><br> <p>  </p>\n')
+        ofile.write('</small><br>\n')
         #
         write_photos(ofile, info)
         #
