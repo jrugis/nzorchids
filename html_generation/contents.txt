@@ -1,7 +1,15 @@
-ACoastal cliff habitat: Muriwai, New Zealand.%An introduction goes here.
+B<i>Thelymitra logifolia "purple halo"</i>. Muriwai, New Zealand.%This is a work in progress. Click on a species in the list.
+Acianthus_sinclairii
+A<i>A. sinclairii</i> flowers. Cultivated, ex Waimauku.%Some descriptive text goes here.
 Caladenia_chlorostyla
 A<i>C. chlorostyla</i> flower. Cultivated, ex Waimauku.%Some descriptive text goes here.
 Corybas_trilobus
-A<i>C. trilobus</i> flower. Cultivated, ex Waimauku.%Some descriptive text goes here.$A<i>C. trilobus</i> flower. Cultivated, ex Waimauku.%Different descriptive text goes here.
+A<i>C. trilobus</i> flower. Cultivated, ex Waimauku.%Some descriptive text goes here.$C<i>C. trilobus</i> tubers.%Different descriptive text goes here.$B<i>C. trilobus</i> leaves.%Different descriptive text goes here.
+Pterostylis_banksii
+A<i>P. banksii</i> flowers. Cultivated, ex Muriwai.%Some descriptive text goes here.
+Pterostylis_trullifolia
+A<i>P. trullifolia</i> leaf. Cultivated, ex Waimauku.%Some descriptive text goes here.
 Thelymitra_logifolia
-A<i>T. logifolia </i> flower. Cultivated, ex Muriwai.%Some descriptive text goes here.
+A<i>T. logifolia</i> flower. Cultivated, ex Muriwai.%Some descriptive text goes here.
+Thelymitra_pulchella
+A<i>T. pulchella</i> flower. Cultivated, ex West Auckland.%Some descriptive text goes here.

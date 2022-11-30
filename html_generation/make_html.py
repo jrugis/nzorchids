@@ -20,6 +20,7 @@ def write_head(f):
     f.write('<style> body {background-color: rgb(50,50,50); color: white;} </style>\n')
     f.write('<style> a {text-decoration: none; color: rgb(150,150,150);} </style>\n')
     f.write('<style> img {border: 1px solid black; border-radius: 8px; max-width: 50vw} </style>\n')
+    f.write('<style> p.desc {margin-left: 20px;} </style>\n')
     f.write('</head>\n')
 
 ################################################################################
@@ -27,7 +28,7 @@ def write_head(f):
 def write_title(f):
     f.write('<big>The Developmental Morphology of \n')
     f.write('New Zealand Native Orchids</big><br>\n')
-    f.write('<small>by John Rugis</small>\n')
+    f.write('&emsp;&emsp;&emsp;&emsp;<small>by John Rugis</small>\n')
 
 ################################################################################
 # FUNCTION: 
@@ -37,7 +38,7 @@ def write_foot(f, dir):
     f.write('(c)2022 J.Rugis<br>\n')
     f.write('jrugis@gmail.com<br>\n')
     f.write('</small></small>\n')
-    f.write('<p>  </p> <img src="' + dir + '/by-nc-sa.svg">\n')
+    f.write('<p>  </p> <img src="' + dir + '/by-sa.svg">\n')
 
 ################################################################################
 # FUNCTION: 
@@ -46,7 +47,7 @@ def write_photos(f, info):
     for p in photos:
          details= p.split('%')
          f.write('<br><figure><img src="' + details[0][0] + '.jpg"><figcaption><small><small>' + details[0][1:] + '</small></figcaption></figure>\n')
-         f.write(details[1] + '</small><br>\n')
+         f.write('<p class="desc">' + details[1] + '</p></small><br>\n')
     
 
 ################################################################################
@@ -65,8 +66,8 @@ def write_species_page(species, prev, next, info):
         ofile.write('<p>  </p>\n')
         ofile.write('species: <big><i>' + gs[0] + ' ' + gs[1] + '</i></big><br>\n')
         ofile.write('<small>\n')
-        ofile.write('&nbsp;&nbsp;&nbsp;<a href="../x' + prev + '/species.html">prev</a>\n')
-        ofile.write('&nbsp;&nbsp;&nbsp;<a href="../x' + next + '/species.html">next</a>\n')
+        ofile.write('&nbsp;&nbsp;&nbsp;<a href="../x' + prev + '/species.html">prev /</a>\n')
+        ofile.write('<a href="../x' + next + '/species.html">next species</a>\n')
         ofile.write('</small><br>\n')
         #
         write_photos(ofile, info)
@@ -100,7 +101,7 @@ def make_contents_page(species, intro):
         #
         write_photos(ofile, intro)
         #
-        ofile.write('<p>  </p><small>species list:<br>\n')
+        ofile.write('<small>species list:<br>\n')
         ofile.write('<i>\n')
         for s in species:
             gs = (s.split('_')) # genus / species
