@@ -26,6 +26,7 @@ def write_head(f):
 ################################################################################
 # FUNCTION: 
 def write_title(f):
+    f.write('<p>  </p><br>\n')
     f.write('<big>The Developmental Morphology of \n')
     f.write('New Zealand Native Orchids</big><br>\n')
     f.write('&emsp;&emsp;&emsp;&emsp;<small>by John Rugis</small>\n')
