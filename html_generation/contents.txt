@@ -1,8 +1,8 @@
-B.jpg<i>Thelymitra logifolia "purple halo"</i>. Muriwai, New Zealand.%This is a work in progress. Click on a species name in the list.
+B.jpg<i>Thelymitra logifolia "purple halo"</i>. Muriwai, New Zealand.%This is a work in progress. To find out more, click on a species name in the list below.
 Acianthus_sinclairii
 A.jpg<i>Acianthus sinclairii</i>. Cultivated, ex Waimauku.%Some descriptive text will go here.
 Caladenia_chlorostyla
-C.svg<i>Caladenia chlorostyla</i>. Cultivated, ex Waimauku.%Flower structural components have been labelled in the above figure.
+C.svg<i>Caladenia chlorostyla</i>. Cultivated, ex Waimauku.%Flower structural components have been labelled in the above figure, with the major components in bold font.
 Corybas_trilobus
 A.jpg<i>Corybas trilobus</i>. Cultivated, ex Waimauku.%Some descriptive text will go here.$C.jpg<i>C. trilobus</i> tubers.%Different descriptive text will go here.$B.jpg<i>C. trilobus</i> leaves.%Different descriptive text will go ere.
 Pterostylis_banksii
