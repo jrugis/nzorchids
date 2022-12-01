@@ -1,15 +1,15 @@
-B.jpg<i>Thelymitra logifolia "purple halo"</i>. Muriwai, New Zealand.%This is a work in progress. Click on a species in the list.
+B.jpg<i>Thelymitra logifolia "purple halo"</i>. Muriwai, New Zealand.%This is a work in progress. Click on a species name in the list.
 Acianthus_sinclairii
-A.jpg<i>A. sinclairii</i> flowers. Cultivated, ex Waimauku.%Some descriptive text goes here.
+A.jpg<i>A. sinclairii</i> flowers. Cultivated, ex Waimauku.%Some descriptive text will go here.
 Caladenia_chlorostyla
-C.svg<i>Caladenia chlorostyla</i> flower. Cultivated, ex Waimauku.%Some descriptive text goes here.
+C.svg<i>Caladenia chlorostyla</i> flower, structural components labelled. Cultivated, ex Waimauku.%Some descriptive text will go here.
 Corybas_trilobus
-A.jpg<i>C. trilobus</i> flower. Cultivated, ex Waimauku.%Some descriptive text goes here.$C.jpg<i>C. trilobus</i> tubers.%Different descriptive text goes here.$B.jpg<i>C. trilobus</i> leaves.%Different descriptive text goes here.
+A.jpg<i>C. trilobus</i> flower. Cultivated, ex Waimauku.%Some descriptive text will go here.$C.jpg<i>C. trilobus</i> tubers.%Different descriptive text will go here.$B.jpg<i>C. trilobus</i> leaves.%Different descriptive text will go ere.
 Pterostylis_banksii
-A.jpg<i>P. banksii</i> flowers. Cultivated, ex Muriwai.%Some descriptive text goes here.
+A.jpg<i>P. banksii</i> flowers. Cultivated, ex Muriwai.%Some descriptive text will go here.
 Pterostylis_trullifolia
-A.jpg<i>P. trullifolia</i> leaf. Cultivated, ex Waimauku.%Some descriptive text goes here.
+A.jpg<i>P. trullifolia</i> leaf. Cultivated, ex Waimauku.%Some descriptive text will go here.
 Thelymitra_logifolia
-A.jpg<i>T. logifolia</i> flower. Cultivated, ex Muriwai.%Some descriptive text goes here.
+A.jpg<i>T. logifolia</i> flower. Cultivated, ex Muriwai.%Some descriptive text will go here.
 Thelymitra_pulchella
-A.jpg<i>T. pulchella</i> flower. Cultivated, ex Auckland.%Some descriptive text goes here.
+A.jpg<i>T. pulchella</i> flower. Cultivated, ex Auckland.%Some descriptive text will go here.
