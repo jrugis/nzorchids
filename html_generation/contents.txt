@@ -1,15 +1,15 @@
 B.jpg<i>Thelymitra logifolia "purple halo"</i>. Muriwai, New Zealand.%This is a work in progress. Click on a species name in the list.
 Acianthus_sinclairii
-A.jpg<i>A. sinclairii</i> flowers. Cultivated, ex Waimauku.%Some descriptive text will go here.
+A.jpg<i>Acianthus sinclairii</i>. Cultivated, ex Waimauku.%Some descriptive text will go here.
 Caladenia_chlorostyla
 C.svg<i>Caladenia chlorostyla</i>. Cultivated, ex Waimauku.%Flower structural components have been labelled in the above figure.
 Corybas_trilobus
-A.jpg<i>C. trilobus</i> flower. Cultivated, ex Waimauku.%Some descriptive text will go here.$C.jpg<i>C. trilobus</i> tubers.%Different descriptive text will go here.$B.jpg<i>C. trilobus</i> leaves.%Different descriptive text will go ere.
+A.jpg<i>Corybas trilobus</i>. Cultivated, ex Waimauku.%Some descriptive text will go here.$C.jpg<i>C. trilobus</i> tubers.%Different descriptive text will go here.$B.jpg<i>C. trilobus</i> leaves.%Different descriptive text will go ere.
 Pterostylis_banksii
-A.jpg<i>P. banksii</i> flowers. Cultivated, ex Muriwai.%Some descriptive text will go here.
+A.jpg<i>Pterostylis banksii</i>. Cultivated, ex Muriwai.%Some descriptive text will go here.
 Pterostylis_trullifolia
-A.jpg<i>P. trullifolia</i> leaf. Cultivated, ex Waimauku.%Some descriptive text will go here.
+A.jpg<i>Pterostylis trullifolia</i> leaf. Cultivated, ex Waimauku.%Some descriptive text will go here.
 Thelymitra_logifolia
-A.jpg<i>T. logifolia</i> flower. Cultivated, ex Muriwai.%Some descriptive text will go here.
+A.jpg<i>Thelymitra logifolia</i>. Cultivated, ex Muriwai.%Some descriptive text will go here.
 Thelymitra_pulchella
-A.jpg<i>T. pulchella</i> flower. Cultivated, ex Auckland.%Some descriptive text will go here.
+A.jpg<i>Thelymitra pulchella</i> Cultivated, ex Auckland.%Some descriptive text will go here.
