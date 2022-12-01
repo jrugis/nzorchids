@@ -20,7 +20,7 @@ def write_head(f):
     f.write('<style> body {background-color: rgb(50,50,50); color: white;} </style>\n')
     f.write('<style> a {text-decoration: none; color: rgb(150,150,150);} </style>\n')
     f.write('<style> object {border: 1px solid black; border-radius: 8px; max-width: 50vw;} </style>\n')
-    f.write('<style> p.desc {margin-left: 20px;} </style>\n')
+    f.write('<style> p.desc {margin-left: 20px;margin-right: 20px;} </style>\n')
     f.write('</head>\n')
 
 ################################################################################
@@ -82,8 +82,8 @@ def write_species_page(species, prev, next, info):
 def make_species_pages(species, ifile):
     i = 0
     for line in ifile:
-        iprev = 0 if (i == 0) else i-1                # previous species index
-        inext = i if (i >= len(species )-1) else i+1  # next species index
+        iprev = len(species )-1 if (i == 0) else i-1                # previous species index
+        inext = 0 if (i >= len(species )-1) else i+1  # next species index
         info = next(ifile).strip()
         write_species_page(species[i], species[iprev], species[inext], info)
         i += 1
