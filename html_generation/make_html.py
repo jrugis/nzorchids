@@ -19,7 +19,7 @@ def write_head(f):
     f.write('<meta name="viewport" content="width=device-width, initial-scale=1.0">\n')
     f.write('<style> body {background-color: rgb(50,50,50); color: white;} </style>\n')
     f.write('<style> a {text-decoration: none; color: rgb(150,150,150);} </style>\n')
-    f.write('<style> img {border: 1px solid black; border-radius: 8px; max-width: 50vw} </style>\n')
+    f.write('<style> object {border: 1px solid black; border-radius: 8px; max-width: 50vw} </style>\n')
     f.write('<style> p.desc {margin-left: 20px;} </style>\n')
     f.write('</head>\n')
 
@@ -47,7 +47,7 @@ def write_photos(f, info):
     photos = info.split('$')
     for p in photos:
          details= p.split('%')
-         f.write('<br><figure><img src="' + details[0][0:5] + '"><figcaption><small><small>' + details[0][5:] + '</small></figcaption></figure>\n')
+         f.write('<br><figure><object data="' + details[0][0:5] + '"></object><figcaption><small><small>' + details[0][5:] + '</small></figcaption></figure>\n')
          f.write('<p class="desc">' + details[1] + '</p></small><br>\n')
     
 
