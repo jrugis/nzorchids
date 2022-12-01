@@ -2,7 +2,7 @@ B.jpg<i>Thelymitra logifolia "purple halo"</i>. Muriwai, New Zealand.%This is a 
 Acianthus_sinclairii
 A.jpg<i>A. sinclairii</i> flowers. Cultivated, ex Waimauku.%Some descriptive text goes here.
 Caladenia_chlorostyla
-C.svg<i>C. chlorostyla</i> flower. Cultivated, ex Waimauku.%Some descriptive text goes here.
+C.svg<i>Caladenia chlorostyla</i> flower. Cultivated, ex Waimauku.%Some descriptive text goes here.
 Corybas_trilobus
 A.jpg<i>C. trilobus</i> flower. Cultivated, ex Waimauku.%Some descriptive text goes here.$C.jpg<i>C. trilobus</i> tubers.%Different descriptive text goes here.$B.jpg<i>C. trilobus</i> leaves.%Different descriptive text goes here.
 Pterostylis_banksii
