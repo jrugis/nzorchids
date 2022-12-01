@@ -19,7 +19,7 @@ def write_head(f):
     f.write('<meta name="viewport" content="width=device-width, initial-scale=1.0">\n')
     f.write('<style> body {background-color: rgb(50,50,50); color: white;} </style>\n')
     f.write('<style> a {text-decoration: none; color: rgb(150,150,150);} </style>\n')
-    f.write('<style> object {border: 1px solid black; border-radius: 8px; max-width: 50vw} </style>\n')
+    f.write('<style> object {border: 1px solid black; border-radius: 8px; max-width: 50vw;} </style>\n')
     f.write('<style> p.desc {margin-left: 20px;} </style>\n')
     f.write('</head>\n')
 
