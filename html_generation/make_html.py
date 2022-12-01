@@ -47,7 +47,7 @@ def write_photos(f, info):
     photos = info.split('$')
     for p in photos:
          details= p.split('%')
-         f.write('<br><figure><img src="' + details[0][0] + '.jpg"><figcaption><small><small>' + details[0][1:] + '</small></figcaption></figure>\n')
+         f.write('<br><figure><img src="' + details[0][0:5] + '"><figcaption><small><small>' + details[0][5:] + '</small></figcaption></figure>\n')
          f.write('<p class="desc">' + details[1] + '</p></small><br>\n')
     
 
