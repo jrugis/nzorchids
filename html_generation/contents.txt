@@ -12,4 +12,4 @@ A.jpg<i>Pterostylis trullifolia</i> leaf. Cultivated, ex Waimauku.%Some descript
 Thelymitra_logifolia
 A.jpg<i>Thelymitra logifolia</i>. Cultivated, ex Muriwai.%Some descriptive text will go here.
 Thelymitra_pulchella
-A.jpg<i>Thelymitra pulchella</i> Cultivated, ex Auckland.%Some descriptive text will go here.
+A.jpg<i>Thelymitra pulchella</i>. Cultivated, ex Auckland.%Some descriptive text will go here.
