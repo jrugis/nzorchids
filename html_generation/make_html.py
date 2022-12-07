@@ -19,7 +19,8 @@ def write_head(f):
     f.write('<meta name="viewport" content="width=device-width, initial-scale=1.0">\n')
     f.write('<style> body {background-color: rgb(50,50,50); color: white;} </style>\n')
     f.write('<style> a {text-decoration: none; color: rgb(150,150,150);} </style>\n')
-    f.write('<style> object {border: 1px solid black; border-radius: 8px; max-width: 60vw;} </style>\n')
+    f.write('<style> object.title {border: 1px solid black; border-radius: 8px; max-width: 80vw;} </style>\n')
+    f.write('<style> object.photo {border: 1px solid black; border-radius: 8px; max-width: 60vw;} </style>\n')
     f.write('<style> p.desc {margin-left: 20px;margin-right: 20px;} </style>\n')
     f.write('</head>\n')
 
@@ -43,11 +44,11 @@ def write_foot(f, dir):
 
 ################################################################################
 # FUNCTION: 
-def write_photos(f, info):
+def write_photos(f, info, css):
     photos = info.split('$')
     for p in photos:
          details= p.split('%')
-         f.write('<br><figure><object data="' + details[0][0:5] + '"></object><figcaption><small><small>' + details[0][5:] + '</small></figcaption></figure>\n')
+         f.write('<br><figure><object class="' + css + '" data="' + details[0][0:5] + '"></object><figcaption><small><small>' + details[0][5:] + '</small></figcaption></figure>\n')
          f.write('<p class="desc">' + details[1] + '</p></small><br>\n')
     
 
@@ -71,7 +72,7 @@ def write_species_page(species, prev, next, info):
         ofile.write('<a href="../x' + next + '/species.html">next species</a>\n')
         ofile.write('</small><br>\n')
         #
-        write_photos(ofile, info)
+        write_photos(ofile, info, 'photo')
         #
         write_foot(ofile, '..')
         ofile.write('</span></body>\n')
@@ -100,7 +101,7 @@ def make_contents_page(species, intro):
         write_title(ofile)
         ofile.write('<br>\n')
         #
-        write_photos(ofile, intro)
+        write_photos(ofile, intro, 'title')
         #
         ofile.write('<small>species list:<br>\n')
         ofile.write('<i>\n')
