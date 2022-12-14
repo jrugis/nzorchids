@@ -21,7 +21,7 @@ def write_head(f):
     f.write('<style> a {text-decoration: none; color: rgb(150,150,150);} </style>\n')
     f.write('<style> object.title {border: 1px solid black; border-radius: 8px; max-width: 80vw;} </style>\n')
     f.write('<style> object.photo {border: 1px solid black; border-radius: 8px; max-width: 60vw;} </style>\n')
-    f.write('<style> p.desc {margin-left: 20px;margin-right: 20px;} </style>\n')
+    f.write('<style> p.desc {margin-left: 20px; margin-right: 20px;} </style>\n')
     f.write('</head>\n')
 
 ################################################################################
