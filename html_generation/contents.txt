@@ -3,14 +3,8 @@ Coastal cliff habitat. Muriwai, New Zealand.
 This online photographic essay is a work in progress, documenting the growth stages of the small native orchids that can be found growing naturally in the locality where I live, including on my own section. Specific individual orchid species can be most readily identified by their flowers. However, with carefull observation, the structure and form at each stage of growth can be seen as unique to many of the species. The goal of this multi-season project is to document the necessary illustrative, sometimes short-lived, fine detail.
 ------------------------------------
 Acianthus_sinclairii
-20220617_130341.jpg
-<i>Acianthus sinclairii</i> - Flowers.
-
 20220607_124155.jpg
-<i>A. sinclairii</i> - Habitat.
-
-20230208_165646.jpg
-<i>A. sinclairii</i> - Tubers.
+<i>Acianthus sinclairii</i> - Habitat.
 
 20220422_133726.jpg
 <i>A. sinclairii</i> - Emerging plant.
@@ -24,33 +18,42 @@ Acianthus_sinclairii
 20190701_132644.jpg
 <i>A. sinclairii</i> - Multiple flower development.
 
+20220617_130341.jpg
+<i>A. sinclairii</i> - Flowers.
+
 20190901_132538.jpg
 <i>A. sinclairii</i> - Flowers spent, seed capsules form.
 
 20191108_081015.jpg
 <i>A. sinclairii</i> - Dehisced seed capsules, seed spent.
 
+20230208_165646.jpg
+<i>A. sinclairii</i> - Tubers.
+
 ------------------------------------
 Caladenia_chlorostyla
-20221112_142502.jpg
-<i>Caladenia chlorostyla</i> - Flower.
-
 20221110_092524.svg
-<i>C. chlorostyla</i> - Flower structural components.
+<i>Caladenia chlorostyla</i> - Flower structural components.
+
+20221128_154054.jpg
+<i>C. chlorostyla</i> - Habitat.
+
+20221112_142502.jpg
+<i>C. chlorostyla</i> - Flower.
 
 ------------------------------------
 Corybas_trilobus
-20220627_133800.jpg
-<i>Corybas trilobus</i> - Leaf and flower.
-
 20220627_133721.svg
 <i>C. trilobus</i> - Structural components.
 
-20220223_133855.jpg
-<i>C. trilobus</i> - Tubers.
-
 20221112_152339.jpg
 <i>C. trilobus</i> - Leaves.
+
+20220627_133800.jpg
+<i>Corybas trilobus</i> - Leaf and flower.
+
+20220223_133855.jpg
+<i>C. trilobus</i> - Tubers.
 
 ------------------------------------
 Orthoceras_novae-zeelandiae
@@ -59,8 +62,11 @@ Orthoceras_novae-zeelandiae
 
 ------------------------------------
 Pterostylis_banksii
+20211119_180730.jpg
+<i>Pterostylis banksii</i> - Seed.
+
 20221112_145024.jpg
-<i>Pterostylis banksii</i> - Flowers.
+<i>P banksii</i> - Flowers.
 
 ------------------------------------
 Pterostylis_trullifolia
@@ -69,8 +75,11 @@ Pterostylis_trullifolia
 
 ------------------------------------
 Thelymitra_longifolia
+DSCF4230.jpg
+<i>Thelymitra longifolia</i> - Seed.
+
 20221031_115255.jpg
-<i>Thelymitra longifolia</i> - Flower.
+<i>T. longifolia</i> - Flower.
 
 20221101_120231.jpg
 <i>T. longifolia</i> - Multiple flowers on single variant color plant.
