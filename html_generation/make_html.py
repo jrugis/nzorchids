@@ -27,9 +27,9 @@ def write_head(f):
 # FUNCTION: 
 def write_title(f):
     f.write('<p>  </p><br>\n')
-    f.write('<center><big>The Developmental Morphology of<br>\n')
+    f.write('<big>The Developmental Morphology of<br>\n')
     f.write('New Zealand Native Orchids</big><br>\n')
-    f.write('&nbsp;&nbsp;&nbsp;<small>by John Rugis</small></center>\n')
+    f.write('<small>by John Rugis</small>\n')
 
 ################################################################################
 # FUNCTION: 
@@ -67,8 +67,8 @@ def write_species_page(species, prev, next, ifile):
         ofile.write('<p>  </p>\n')
         ofile.write('<small>species:</small> <strong><i>' + gs[0] + ' ' + gs[1] + '</i></strong><br>\n')
         ofile.write('&nbsp;&nbsp;&nbsp;<small>\n')
-        ofile.write('<a href="' + next + '.html">next species /</a>\n')
         ofile.write('<a href="' + prev + '.html">prev species /</a>\n')
+        ofile.write('<a href="' + next + '.html">next species /</a>\n')
         ofile.write('<a href="index.html">home</a>\n')
         ofile.write('</small><br>\n')
         #
