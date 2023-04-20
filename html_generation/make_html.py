@@ -39,7 +39,7 @@ def write_foot(f):
     f.write('(c)2023 J.Rugis<br>\n')
     f.write('jrugis@gmail.com<br>\n')
     f.write('</small></small>\n')
-    f.write('<p>  </p> <img src="images/by-sa.svg">\n')
+    f.write('<p>  </p> <img src="images/by-nc-sa.svg">\n')
 
 ################################################################################
 # FUNCTION: 

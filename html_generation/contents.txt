@@ -1,6 +1,6 @@
 20221107_150658.jpg
 Coastal cliff habitat. Muriwai, New Zealand.
-This online photographic essay is a work in progress, documenting the growth stages of the small native orchids that can be found growing naturally in the locality where I live, including on my own section. Specific individual orchid species can be most readily identified by their flowers. However, with carefull observation, the structure and form at each stage of growth can be seen as unique to many of the species. The goal of this multi-season project is to document the necessary illustrative, sometimes short-lived, fine detail.
+This illustrated monograph is a work in progress, documenting the growth stages of the small native orchids that can be found growing naturally in the region where I live, including on my own property. Specific individual orchid species can be most readily identified by their flowers. However, with carefull observation, the structure and form at each stage of growth can be seen as unique to many of the species. The goal of this multi-season project is to document the necessary illustrative, sometimes short-lived, fine detail.
 ------------------------------------
 Acianthus_sinclairii
 20220617_130341.jpg
@@ -59,19 +59,19 @@ Corybas_trilobus
 <i>C. trilobus</i> - Emergent plant.
 
 20220527_110238.jpg
-<i>C. trilobus</i> - Emergent leaf and sepals.
+<i>C. trilobus</i> - Emergent leaf and flower sepals.
 
 20220606_115311.jpg
 <i>C. trilobus</i> - Emergent leaf and sepals.
 
 20220606_115458.jpg
-<i>C. trilobus</i> - Leaf and sepal development.
+<i>C. trilobus</i> - Leaf and continuing flower development.
 
 20220617_125840.jpg
-<i>C. trilobus</i> - Leaf and sepal development.
+<i>C. trilobus</i> - Leaf and continuing flower development.
 
 20220620_123741.jpg
-<i>C. trilobus</i> - Leaf and sepal development.
+<i>C. trilobus</i> - Leaf and further flower development.
 
 20220628_121316.jpg
 <i>C. trilobus</i> - Fully formed flower.
@@ -90,8 +90,32 @@ Corybas_trilobus
 
 ------------------------------------
 Orthoceras_novae-zeelandiae
-20221218_131054.jpg
+20221217_111355.jpg
 <i>Orthoceras novae-zeelandiae</i> - Flower.
+
+20221121_134350.jpg
+<i>O. novae-zeelandiae</i> - Habitat.
+
+20230309_111227.jpg
+<i>O. novae-zeelandiae</i> - Emergent plant.
+
+20230309_111246.jpg
+<i>O. novae-zeelandiae</i> - Developing leaf.
+
+20230320_101447.jpg
+<i>O. novae-zeelandiae</i> - Leaf and emergent stalk.
+
+20230409_091532.jpg
+<i>O. novae-zeelandiae</i> - Leaf and stalk elongation.
+
+20221204_162218.jpg
+<i>O. novae-zeelandiae</i> - Emergent flowers.
+
+20221204_163123.jpg
+<i>O. novae-zeelandiae</i> - Developing flower.
+
+20221217_111754.jpg
+<i>O. novae-zeelandiae</i> - Fully formed flower.
 
 ------------------------------------
 Pterostylis_banksii
