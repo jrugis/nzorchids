@@ -16,7 +16,7 @@ OFNAME = 'index.html'
 def write_head(f):
     f.write('<head>\n')
     f.write('<meta name="viewport" content="width=device-width, initial-scale=1.0">\n')
-    f.write('<style> body {background-color: rgb(50,50,50); color: white; font-size: 2.20vw;} </style>\n')
+    f.write('<style> body {background-color: rgb(50,50,50); color: white; font-size: 2.20vmax;} </style>\n')
     f.write('<style> a {text-decoration: underline; color: rgb(150,150,150);} </style>\n')
     f.write('<style> object.title {border: 1px solid black; border-radius: 8px; max-width: 80vw;} </style>\n')
     f.write('<style> object.photo {border: 1px solid black; border-radius: 8px; max-width: 60vw;} </style>\n')
